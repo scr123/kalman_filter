@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+
+  <name>kalman_filter</name>
+
+  <version>1.0.0</version>
+
+  <description>Kalman Filter Library</description>
+
+  <author email="sean.GH1231@gmail.com">Sean Crutchlow</author>
+  <maintainer email="sean.GH1231@gmail.com">Sean Crutchlow</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
